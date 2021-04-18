@@ -1,0 +1,272 @@
+============= 00 Warm up ==============
+
+0.1 Write a program that will print "Hello world!" each character of the expression in a new line.
+
+0.2 Write a program that will and print the difference of -10 and  26 numbers on the screen.
+
+
+============== 01 Arithmetic and branching ==============
+
+1.1 Write a program that will get 2 integers in the input and subtract the sum of these numbers.
+
+1.2 Write a program that will get the length of two sides of a rectangle in the input and produce this rectangular area.
+
+1.3 Write a program that will get positive integers A and B at the input and will print the result remainder obtained by dividing A by B. It is known that B is not 0.
+
+1.4 You need to write a program that will get the base and height of a rectangular table in the entrance and count the area of this table.
+
+1.5 You need to write a program that will get four moving point digits in the input and will make the difference between the sums of the first two and the other two.
+
+1.6 Write a program that will get the quotient obtained by dividing the first and second divisors by two sliding points.
+
+1.7 Write a program that gets the input of 3 integers and 1 floating-point numbers. The program as a result should set out the sum of integers and the part obtained by dividing the number into a floating-point numbers. It is known that the floating-point numbers is not equal to 0.
+
+1.8 It is required to write a program that will get the integers A and B at the input, then the numbers with the floating-point numbers C and D. As a result, the program must display the value of the expression A * C - B / D. It is known that D is not 0.
+
+1.9 Write a program that gets the number N in the input from the interval [1, 26] and outputs the number N in the Latin lowercase and uppercase letters of the alphabet
+
+1.10 Write a program that will count the number of letters in the English alphabet
+
+1.11 Write a program that will get 2 positive integers in the input and will produce YES if these numbers are equal and NO otherwise
+
+1.12 Write a program that will get 2 positive integers in the input and will produce the largest of these digits
+
+1.13 Write a program that will get 3 integers in the input and will produce less than these numbers
+
+1.14 Write a program that will get an integer in the input and will produce YES if this number is a pair and the separable remainder of 7 will remain 3 and NO otherwise
+
+1.15 Write a program that will get 3 integers in the entrance and will produce the second largest of these numbers.
+
+1.16 You need to write a program that will get 2 characters from the ASCII table in the input and will produce YES if the second character has a smaller ASCII code than the first and NO otherwise. Output EQUAL for identical characters:
+
+1.17 You need to write a program that will get numbers in the input at the floating-point numbers A, B, C. as a result, the program must produce YES if A is in the range [B, C) and NO otherwise. It is known that B is smaller than C.
+
+1.18 Write a program that will get 4 integers in the input and will produce YES if all the digits were entered in descending order and NO otherwise
+
+1.19 Write a program that will get the integers A, B, C and  D nearby. It is necessary to display the difference between the produced number A and D and the sum of numbers B and C,i f A exceeds C. Producing the sum of numbers B and D, if C exceeds A. Otherwise, the sum of all four numbers
+
+1.20 Write a program that will get the integers A, B, C and D at the input. Required to express YES if A is opposite to D and B is not opposite to C, NO otherwise
+
+
+============== 02 Cycles and static arrays ===============
+
+2.1 Write a program that will get a positive digit in the input and will produce up to 10 integers. It is known that the input number is not less than 10. Numbers displayed must be separated by a space
+
+2.2 Write a program that will get the integers A and B at the input and will display all even numbers in the range [A, B]. The numbers displayed must be separated by a space.
+
+2.3 You need to write a program that will get the input integers A and B and will produce the number of all numbers in the range [A, B], which are divisible by 7 without remainder
+
+2.4 Write a program that will get a positive number in the input and express all the simple numbers up to this number. Numbers displayed must be separated by a space
+
+2.5 You need to write a program that will receive an integer in the entry until 0 is entered. And the sum of the imported numbers will be displayed. It is forbidden to use an array.
+
+2.6 You need to write a program that will get non-negative integers N and K in the input, and then a sequence Of n integers. The program should produce "YES" as a result if the exact K of n numbers is greater than or equal to 123 and " NO " otherwise. You can't use an array.
+
+2.7 Write a program that gets a natural number N at the input, then a sequence of whole N elements. As a result, the program must display the difference between the largest and smallest elements of the sequence. Solve the problem without using array.
+
+2.8 Write a program that gets an N-negative integer in the input, followed by a sequence Of n integers.  As a result, the program must display the maximum number of meetings of elements in the sequence. You can't use an array.
+
+2.9 Write a program that gets a natural number N (N  ≥ 3) in the input, followed by a sequence N consisting of integer elements. As a result, the program must develop the three largest elements of the sequence. Elements should be output from small to large and separated into spaces. You can't use an array.
+
+2.10 Write a program that gets a natural number N (n ≤ 1000) in the input, followed by a sequence N consisting of integer elements. As a result, the program should develop a sequence in reverse order. When solving the problem, use an array.
+
+2.11 Write a program that gets a natural number N (n ≤ 1000) in the input, followed by a sequence N consisting of integer elements. As a result, the program must select the number of elements other than the last element in the sequence. When solving the problem, use an array. 
+
+2.12 Write a program that gets a natural number N (n ≤ 1000) in the input, followed by a sequence of N characters. As a result, the program should state the sequence numbers, and then the rest of the characters. The displayed characters must be separated by spaced. When solving the problem, use an array.
+
+2.13 You need to write a program that gets a natural number N (n ≤ 1000) in the input, followed by a sequence N consisting of integer elements. The program must first use negative sequence elements, and then use non-negative ones. The numbers to be subtracted must be separated from each other by space. When solving the problem, use an array.
+
+2.14 You need to write a program that will get a sequence of two integers of length 10 at the entrance and will display all the elements from the first sequence that are not in the second. The output numbers must be separated by a space and must be displayed in the same order as they were entered. When solving the task, use an array.
+
+2.15 You need to write a program that receives n (n ≤ 1000) natural numbers at the input, then the sequence of integers a0, a1, a2, ... an-1 b will print b0, b1, b2, ... b (n-1 ) / 2. Where bi = ai + an - i - 1. The numbers displayed must be separated by a space. Use array to solve the problem
+
+2.16 You need to write a program that will get n (n ≤ 100) natural numbers at the input, then the sequence of integers a0, a1, a2, ... an-1 will b0, b1, b2, ... bn-1. Where bi is the number of prime numbers less than ai. The numbers displayed must be separated by a space. Use array to solve the problem.
+
+2.17 You need to write a program that receives a natural number N (N ≤ 100) at the input, then a sequence of N elements. It is known that all the elements of the sequence meet exactly twice except for one. It is required to express the one-time element and in the sequence. Use array to solve the task.
+
+2.18 You need to write a program in which the entry gets n (n ≤ 1000) natural number, then a1, a2, a3,... a sequence of integers and will produce the largest negative number and its order, if not "0 -1". When solving the problem, use an array.
+
+2.19 You need to write a program that gets a natural number N (n ≤ 1000) in the input, followed by a sequence N consisting of integer elements. You need to have the program build the elements of a sequence in descending order. The numbers to be subtracted must be separated from each other by space. When solving the problem, use the array and the bubble sort algorithm.
+
+2.20 You need to write a program that gets a natural number N (n ≤ 1000) in the input, followed by a sequence N consisting of integer elements. You need to have the program build the elements of a sequence in descending order. The numbers to be subtracted must be separated from each other by space. When solving the problem, use an array and the insertion sort algorithm.
+
+
+============== 03 Dynamic arrays և functions ===============
+
+3.1 Write a program that will receive a word in the input (no more than 20 characters), and will produce the number of characters entered.
+
+3.2 Write a program that will get the words S1 and S2 (no more than 20 characters) in the input և will display ‘YES’ if the entered words are anagrams and ‘NO’ otherwise.
+
+3.3 Write a program that will receive a word in the input (no more than 20 characters) and will display ‘YES’ if the entered word is a palindrome and otherwise ‘NO’.
+
+3.4 Write a program that gets the word S in the input (no more than 20 characters), then one C character. It is necessary to display the sub-word to the right of the first C character in the word S.
+
+3.5 Write a program that gets the word S1 (no more than 20 characters) in the input, the word S2 (no more than the number of characters in the word S1) ‘will print‘ YES ’if S2 is a subword from S1 and NO ’otherwise.
+
+3.6 Write a program that will get a natural number N at the input, then a sequence of whole N elements. The program needs to display the number of pairs of sequence elements. Use a dynamic array to solve the problem.
+
+3.7 Write a program that will get a natural number N at the input, then a sequence of whole N elements. It is required to express all the elements of the sequence that are repeated. The numbers displayed must be separated by a space. Use a dynamic array to solve the problem.
+
+3.8 Write a program that will get a natural number N at the input, then a sequence of whole N elements. It is required to express the number of elements of the longest continuously increasing continuous sequence.
+
+3.9 Write a program that will get N natural numbers in the input, and then a sequence Of n consisting of integer elements. It is required to express the number of repetitions of each sequence element.
+
+3.10 Write a program that will get a natural number N at the input, then a sequence of whole N elements. It is required to express the two elements of the sequence whose sum is closest to 0. If there are any, output them first.
+
+3.11 Write a program that will get two 6x6 matrices at the entrance, line by line - will show the difference between those matrices. It is necessary to express the elements of the matrix line by line, separating the elements of the same line from each other with a space.
+
+3.12 Write a program that will get a 5x10 matrix at the entrance, line by line and will map the transposed matrix of that matrix. It is necessary to express the elements of the matrix line by line, separating the elements of the same line from each other with a space.
+
+3.13 Write a program that gets the number K (1 ≤ K ≤ 6) at the input, then the elements of the 6x5 matrix, line by line. It is necessary to remove the K rows from the matrix, to express the new matrix obtained. It is necessary to express the elements of the matrix line by line, separating the elements of the same line from each other with a space.
+
+3.14 Write a program that gets the number K (1 ≤ K ≤ 6) at the input, then the elements of the 6x5 matrix, line by line. It is necessary to remove the K column from the matrix, to express the new matrix obtained. It is necessary to express the elements of the matrix line by line, separating the elements of the same line from each other with a space.
+
+3.15 Write a program that will get the elements of the 6x6 matrix line by line. It is necessary to spiral out the elements of the matrix starting from the first element of the matrix.
+
+3.16 Write a program that will get a positive number in the input and will produce " Yes "if this number is prime and" no " otherwise. The check must be performed using the function.
+
+3.17  Write a program that will get a positive integer in the entrance and will produce binary representation of this number. The transition from ten to binary is performed using the function.
+
+3.18 Write a function that gets N natural numbers as an argument and returns n!/ (n + 1) the value of the expression. Then calculate the value of the following phrase 1!/2 + 2!/3 + 3!/4 + 4!/5 + 5!/6 + 6!/7 + 7!/8 + 8!/9 + 9!/10 + 10!/ 11. the response is displayed with an accuracy of 5 characters.
+
+3.19 You need to write a program that will get the input integers A and B and O (+, -, *, /, %) action sign. As a result, the program should formulate the action O in relation to the applied numbers A and B. You must create a separate function for each operation.
+
+3.20 You need to write a program that will get three sides of the triangle in the entrance and output its area. To solve the problem, use the Heron formula and the sqrt () function.
+
+3.21 Write a program that will get n (1 ≤ n ≤ 10) in the input and will produce the ratio of the factorial of the incoming number and the nth element of the Fibonacci sequence with an accuracy of 5 characters. It is necessary that the functions of counting the number of factorials and calculating the nth element of the Fibonacci sequence are recursive:
+
+3.22 Write a program that gets two natural numbers at the input of their greatest common divisor. It is necessary to solve the problem by means of a recursive function.
+
+3.23 Write a program that finds the nth coefficient of a Chebyshev polynomial for n ≥ 0 integers and x given in the input. The polynomial Tn (x) of Chebyshev is defined by the following equation: Tn+1(x)=2xTn(x) − Tn−1(x)  
+
+3.24 Given a recursive sequence Kn, whose Ki element is defined by the following rules ․
+   . Ki = i, if i ≤ 3:
+   . Ki = 2 * Ki + 3, if i is odd and i> 3
+   . Ki = 3 + Ki / 2, if i is a pair and i> 3
+     Write a program that will get the natural number i (i ≤ 1000000000) at the input and will be the i element of the sequence.
+
+3.25 You need to write a program that will receive two sorted arrays of length 10 in the input and will produce the sorted mass obtained as a result of combining these masses.
+
+3.26 You need to write a program that, by entering the N natural number at the input, then a sequence consisting of all N elements, will sort the elements of the sequence in descending order. The numbers displayed must be separated by a space. Use the merge sort algorithm to solve the problem.
+
+
+============== 04 Classes ===============
+
+4.1 Write a program that will receive information about flights at the entrance N-the end point of each flight-the city and train, and then the name of the city M. as a result of the program, it must pronounce the numbers of trains going to the specified city M. If there are none, say " unattainable city!"message.
+ Describe a class called TRAIN that has the following fields.
+ .flight destination - city
+ .train number
+
+4.2 Write a program that will receive information about N flights at the entrance the destination-city of each flight, the day of departure for the train,, then the name of city M and D days. As a result of the project work, it should display the numbers of the trains that leave for city M on the given D day. If not, display "Unreachable city!" the message.
+ Describe a class called TRAIN that has the following fields.
+  .flight destination - city
+  .flight day
+  .train number
+
+4.3 Write a program that will get information about flights N at the entrance the starting point of each flight is the city, the end point is the city and the name of the city A, B, and C. As a result of the program, it should produce pairs of flight numbers, the first train of the pair should go from A to B, and the second-from B to C. The flight numbers must be displayed in the same order as they were imported."message.
+ Describe a class called TRAIN that has the following fields.
+ .flight starting point - city
+ .flight end point - city
+ .train number
+
+4.4 Write a program that will receive information about TVs N in the input the model name of each TV, the country of manufacture and the diagonal length, and then the name of the model M. As a result of the program, it must produce the diagonal dimensions of all the specified m-model TVs and the country of manufacture. If there are none, the output is “Not found!"message.
+ Describe a class called TV that will have the following fields:
+ . TV model name
+ . country of origin
+ . diagonal length
+
+4.5 Write a program that will receive information about TVs N in the input the name of each TV model, the country of manufacture and the country of sale, then the country of manufacture of TV A and the country of sale B. As a result of the program, it must produce all models of TVs that are manufactured in country a and sold in B. If there are none, the output is “Not found!"message.
+ Describe a class named TV that will have the following:
+ . TV model name
+ . country of origin
+ . country of sale
+
+4.6 Write a program that implements the Time class, whose objects represent time. Time is provided by hours (from 0 to 23) and minutes (from 0 to 59) fields. The program should receive information about The time N in the input-hour and minute, and then say the closest time to noon. First, you need to display the time that comes before the day.
+
+4.7 Write a program that implements the TimeS class, whose objects represent time. Time is provided by hours (0 to 23), mines (0 to 59), and seconds (0 to 59) fields. The program should get N time information-hour, minute, and seconds, and then pop up at the latest time of day.
+
+4.8 Write a program that will receive the number of students in the class, then the name of each and 5 subject exam grades. The program should display the name of the student with the highest average grade.
+
+4.9 The input contains a sequence of characters (‘(‘, ‘)’, ‘{’, ‘}’, ‘[‘ and ‘]’, required to display YES if it is the correct expression in parentheses and  NO, otherwise.
+
+4.10 The input is given a matrix size of 10x10, consisting of zeros and one, you need to display YES, if you can get from the upper-left corner to the lower-right corner, moving up 1 cell at each step, from the bottom, left or right and not passing one, and NO otherwise. It is known that the upper-left and lower-right corners of the cell are always 0. You can use the channel algorithm to solve the problem.
+
+4.11 In the entrance, the numbers of the white and black kings ' cells on the chessboard are given alternately, followed by the natural number N and the sequence N consisting of the numbers of the chess cells. A YES output is required if the white king can eat the black one without passing Through one of the specified n cells, assuming that the black king is stationary and NO, otherwise. Use a queue to solve the problem.
+
+4.12 It is known that the factory has separate groups of workers, which have names. You need to write a program that will get the number of groups at login, then in the following order name of each group, number of employees in the group and name of each employee and birth number. The program should show the names of all these groups of employees that  was born after 1974.  If not, print the message "Not found! use group and work classes when deciding on the program.
+
+4.13 It is known that there are separate workers' groups in the factory, which have factory numbers, in which they work. It is required to write a program that will receive the number of groups in the entry, then by the name of the workshop of each group in the sequence, the number of workers in the group and each. Worker's name and date of birth. The program must display the names of all workers who. They work in factory A-15. If not, display "Not found!" the message use Group and Worker classes when solving the program.
+
+4.14  Write a program that will receive the number of selected school classes at the entrance, and then each class will be added to the list class name, number of students in the class, name of each and 5 assessment of exams in subjects. The program must produce with the highest academic performance class name use the Class and Student lessons to solve the problem. Academic performance in the classroom this is the ratio to the sum of students ' grades and the number of students.
+
+4.15 The input is given a matrix size of 10x10, consisting of zeros and one, you need to display YES, if you can get from the upper-left corner to the lower-right corner, moving up 1 cell at each step, from the bottom, left or right and not passing one, and NO otherwise. It is known that the upper-left and lower-right corners of the cell are always 0. You can use the channel algorithm to solve the problem.
+
+4.15 You need to write a program that performs the following lessons: Shape, Triangle, Rectangle, Circle
+
+ . The Shape class is the basic abstract lesson for other classes and objects       inherited from it
+   these are geometric images
+ . Triangle objects are triangles
+ . Objects of the Rectangle class-rectangles
+ . Objects of the Circle class are regions
+
+Classes methods:
+
+.All lessons inherited from the Shape class must contain the necessary data for creating an object of this class constructor (s) or methods Image area reading function in which the form class should be defined as pure virtual function. The program will get the names of N bodies and their dimensions in the entrance (in the case of a triangle, then the height). As a result of the program, it should produce the surfaces of all organs in ascending order.
+
+4.16  You need to write a program that performs the following lessons: Shape, Cube, Pyramid, Ball
+
+. Shape is the basic abstract lesson for the other classes and objects inherited from it are geometric three-dimensional bodies
+. Objects of the Cube class-cubes
+. Objects of the Pyramid class-square pyramids
+Objects of the "ball" class-balls
+Lesson methods:
+
+.All classes inherited from the Shape class must contain the necessary data for creating an object of this class constructor (s) or methods. A function that calculates the volume of the body, which in the Shape class should be defined as a pure virtual function. The program will get the names of N bodies and their dimensions in the entrance (in the case of a pyramid, first on the base side length then height). As a result of the project's work, it should lay out everything sum of organ volumes.
+
+4.17 You need to write a program that provides classes for Person and Employee. Objects of the Person class are people, and the Employee class is inherited from the Person class, and objects of this class are workers:
+
+Classes fields:
+
+.The Person class must at least have first names and last name fields
+. In the Employee class, at least, there should be positions and salary fields
+The program must receive data from N-employees in order of priority-first and last name, position and salary. As a result of the project's work, it should be posted for all employees names and positions whose salary is not lower than the average salary.
+
+4.18 You need to write a program that provides lessons for Person and Employee. Objects of the Person class
+these are people, and the Employee class is inherited from the Person class, and objects of this class are workers:
+
+Classes fields:
+
+.The Person class must contain at least the first and last names and date of birth of the field
+. The employee in the class should at least have a salary field
+
+The program must receive data from N-employees in order of priority-first and last name,
+date of birth and salary. As a result of the project's work, it should do the maximum
+names of employees with a minimum age who receive wages, if there are none
+"Not found!":
+
+4.19 It is required to write a program in which the following lessons are implemented: Book, FictionBook, ScientificBook
+
+    .Book objects are books
+    .FictionBook class is inherited from the Book class and the objects in that class are fiction books
+    .ScientificBook class is inherited from Book class and  objects in that class are science books
+    Classes fields.
+
+    There should be a title field in the .Book class
+    The FictionBook class should include the number of copies sold and the number of copies
+    The ScientificBook class should include the price of the book, the number of pages տր the number of copies given to libraries
+    Classes methods.
+
+    Designers needed to create .Book, FictionBook, ScientificBook objects a function called .popularity, which calculates the popularity of a fiction book (as a floating point number) with the following formula: (s / c) * (s / 1000), where s is the book sold is the number of copies, and c is the number of copies of the book. A function called expensive, which calculates the degree of value of a science book (as a floating point number) with the following formula: price / number of pages. The program must receive the data of N fiction books in the following order: title,
+    Circulation, number of copies sold. Then the data of M scientific books in order title. Price, number of pages, number of books given to libraries. As a result of the project, it should publish the titles of the fiction books they have the highest popularity. Like the title of the science book that has been given to libraries the most and  has a lower than average price, if not, display "Not found!".
+
+4.20 It is required to write a program in which the following lessons are implemented: Book, FictionBook, ScientificBook
+
+    .Book objects are books
+    .FictionBook class is inherited from the Book class and the objects in that class are fiction books
+    .ScientificBook class is inherited from Book class and objects in that class are science books
+    Classes fields.
+
+    The author name and surname fields should be in the .Book class
+    There should be a genre field in the fictionBook class with one of the values: novel, story, poem
+    .ScientificBook class should have the field: informatics, physics, mathematics and "chemistry" in one of the values. The program must receive the data of the N fiction books at the entrance, in order of the author's name, surname and genre. Then the data of M scientific books in order, author's name and field.
+    As a result of the project work, it should list the names of the mathematicians who have published poems, if there are no such "Nоut found!"
